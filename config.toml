@@ -87,7 +87,7 @@ filter_peers = false
 [rpc]
 
 # TCP or UNIX socket address for the RPC server to listen on
-laddr = "tcp://127.0.0.1:26657"
+laddr = "tcp://0.0.0.0:26657"
 
 # A list of origins a cross-domain request can be executed from
 # Default value '[]' disables cors support
@@ -211,7 +211,7 @@ laddr = "tcp://0.0.0.0:26656"
 external_address = ""
 
 # Comma separated list of seed nodes to connect to
-seeds = "9946f17e2209dbeb53d5ae549282d5b0ba7f5183@3.19.120.0:26656"
+seeds = "3e2499e29907797ca9d655f14cc773ccf291692f@3.19.120.0:26656"
 
 # Comma separated list of nodes to keep persistent connections to
 persistent_peers = ""
