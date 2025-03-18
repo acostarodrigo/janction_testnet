@@ -19,7 +19,7 @@ version = "0.38.12"
 proxy_app = "tcp://127.0.0.1:26658"
 
 # A custom human readable name for this node
-moniker = "ip-172-31-12-126.us-east-2.compute.internal"
+moniker = "test"
 
 # Database backend: goleveldb | cleveldb | boltdb | rocksdb | badgerdb
 # * goleveldb (github.com/syndtr/goleveldb - most popular implementation)
@@ -211,7 +211,7 @@ laddr = "tcp://0.0.0.0:26656"
 external_address = ""
 
 # Comma separated list of seed nodes to connect to
-seeds = "@3.15.141.122:26656"
+seeds = "0a66e811b8af3a5399cc8653dd5419cb9a59ff19@3.15.141.122:26656"
 
 # Comma separated list of nodes to keep persistent connections to
 persistent_peers = ""
