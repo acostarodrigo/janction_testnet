@@ -1,7 +1,7 @@
 {
   "app_name": "janctiond",
   "app_version": "main-3ff1ab23f5d03f71845480acdbcc9d2003d3b53a",
-  "genesis_time": "2025-03-27T18:52:15.59248997Z",
+  "genesis_time": "2025-03-27T19:13:35.102460329Z",
   "chain_id": "demo",
   "initial_height": 1,
   "app_hash": null,
@@ -17,14 +17,14 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "janction1ga9pvlucnvngyge5ng0s8asd5tyf5zn3jf7kf9",
+          "address": "janction1g392m435cxh7chu3u7kdfat7drqx5d7ndl6gj5",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "janction154ykq9qdssylve99gtqvlxcplpzwdfpgawq86z",
+          "address": "janction1e0yq8vpv6tajvekzj4vkujxggjw4wevln4eq6e",
           "pub_key": null,
           "account_number": "1",
           "sequence": "0"
@@ -38,7 +38,7 @@
       },
       "balances": [
         {
-          "address": "janction1ga9pvlucnvngyge5ng0s8asd5tyf5zn3jf7kf9",
+          "address": "janction1g392m435cxh7chu3u7kdfat7drqx5d7ndl6gj5",
           "coins": [
             {
               "denom": "jct",
@@ -47,7 +47,7 @@
           ]
         },
         {
-          "address": "janction154ykq9qdssylve99gtqvlxcplpzwdfpgawq86z",
+          "address": "janction1e0yq8vpv6tajvekzj4vkujxggjw4wevln4eq6e",
           "coins": [
             {
               "denom": "jct",
@@ -106,10 +106,10 @@
                 },
                 "min_self_delegation": "1",
                 "delegator_address": "",
-                "validator_address": "janctionvaloper1ga9pvlucnvngyge5ng0s8asd5tyf5zn3y8rghg",
+                "validator_address": "janctionvaloper1g392m435cxh7chu3u7kdfat7drqx5d7nm38kve",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "wihyK1I0CHmX2uEc1DO9uX5yle9M2BOE7GwcDEc54Iw="
+                  "key": "4lgJDUvwHMZ2bFggdZvP3p4uHiK1HmjwaoNKtVJTZT4="
                 },
                 "value": {
                   "denom": "jct",
@@ -117,7 +117,7 @@
                 }
               }
             ],
-            "memo": "116da2b839daf73bac68a96e2526166a8c00110d@172.31.12.126:26656",
+            "memo": "df5930a499af98f4cb55d056ae8e34f74960a300@172.31.12.126:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -127,7 +127,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A8qSFJlW8lXJe92kqelYHT6C8ujk4h05petj+9nYHlwf"
+                  "key": "AsHuQP+RHRuvsEDlZUM1paNJtOWZ7Y4IPW78/4xfJbTc"
                 },
                 "mode_info": {
                   "single": {
@@ -146,7 +146,7 @@
             "tip": null
           },
           "signatures": [
-            "/QIScENefHQXKFJ2Tfsnlosq00qvjNjmLCQihDwO92QfC1EkVEpr0lFaGEMPUZqE4OGREauDBpBK0+LTMLPKdQ=="
+            "HqdJcrd5QXxi/cFB/4crLIheHhqfU3AedpquSN1RuD5JeS5emlg/Mugy5raGNlfQiDBnLIp/5Yw6201FFNyLNg=="
           ]
         }
       ]
